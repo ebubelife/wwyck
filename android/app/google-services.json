@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "194804222712",
+    "firebase_url": "https://wwck-1ac28.firebaseio.com",
+    "project_id": "wwck-1ac28",
+    "storage_bucket": "wwck-1ac28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194804222712:android:e5afd336be39cb66cdc90d",
+        "android_client_info": {
+          "package_name": "com.example.wwck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194804222712-p5jruh060ajmudjjf4mb1ukrjcm2g715.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wwck",
+            "certificate_hash": "3debb940a2f6f7ac6e676c546597589940b4056a"
+          }
+        },
+        {
+          "client_id": "194804222712-hjk6lkgk04kh2da57rjaranoqnog292k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrtGUgBIYuXXfcLxG4QMWqCwVAaKv0Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194804222712-hjk6lkgk04kh2da57rjaranoqnog292k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194804222712-6pagcgj0khgnudvqvnlotv4udlf8ic7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wwck"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194804222712:android:0d572c5115f7e8eccdc90d",
+        "android_client_info": {
+          "package_name": "com.wwyck.wwyck.wwyck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194804222712-pjd3qc8sgan7rckcisn2leebh4rufp7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wwyck.wwyck.wwyck",
+            "certificate_hash": "3debb940a2f6f7ac6e676c546597589940b4056a"
+          }
+        },
+        {
+          "client_id": "194804222712-hjk6lkgk04kh2da57rjaranoqnog292k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrtGUgBIYuXXfcLxG4QMWqCwVAaKv0Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194804222712-hjk6lkgk04kh2da57rjaranoqnog292k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194804222712-6pagcgj0khgnudvqvnlotv4udlf8ic7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wwck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
